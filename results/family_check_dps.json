@@ -1,0 +1,46 @@
+{
+ "0.9": {
+  "two_level_rule_min_cost": 85.02,
+  "rule": [
+   0.83,
+   0.8,
+   1.5
+  ],
+  "open_loop_family_min_cost": 79.71,
+  "nsga_two_level_min_cost": 77.83,
+  "nsga_rbf_min_cost": 82.06
+ },
+ "0.95": {
+  "two_level_rule_min_cost": 85.49,
+  "rule": [
+   0.83,
+   0.83,
+   1.0
+  ],
+  "open_loop_family_min_cost": 85.49,
+  "nsga_two_level_min_cost": 85.34,
+  "nsga_rbf_min_cost": 86.76
+ },
+ "0.99": {
+  "two_level_rule_min_cost": 86.46,
+  "rule": [
+   0.83,
+   0.94,
+   1.5
+  ],
+  "open_loop_family_min_cost": 86.46,
+  "nsga_two_level_min_cost": 86.23,
+  "nsga_rbf_min_cost": 87.8
+ },
+ "1.0": {
+  "two_level_rule_min_cost": 86.55,
+  "rule": [
+   0.83,
+   0.95,
+   1.0
+  ],
+  "open_loop_family_min_cost": 86.55,
+  "nsga_two_level_min_cost": 86.39,
+  "nsga_rbf_min_cost": 88.64
+ }
+}

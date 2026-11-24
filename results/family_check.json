@@ -1,0 +1,37 @@
+{
+ "0.9": {
+  "family_min_cost": 79.71,
+  "family_u1": 0.0,
+  "family_c": 0.8300000000000001,
+  "family_tp": 0.216,
+  "nsga_min_cost": 83.09
+ },
+ "0.95": {
+  "family_min_cost": 85.49,
+  "family_u1": 0.8300000000000001,
+  "family_c": 0.8300000000000001,
+  "family_tp": 0.186,
+  "nsga_min_cost": 90.71
+ },
+ "0.96": {
+  "family_min_cost": 85.92,
+  "family_u1": 0.88,
+  "family_c": 0.8300000000000001,
+  "family_tp": 0.184,
+  "nsga_min_cost": 92.16
+ },
+ "0.99": {
+  "family_min_cost": 86.46,
+  "family_u1": 0.9400000000000001,
+  "family_c": 0.8300000000000001,
+  "family_tp": 0.182,
+  "nsga_min_cost": 97.34
+ },
+ "1.0": {
+  "family_min_cost": 86.55,
+  "family_u1": 0.9500000000000001,
+  "family_c": 0.8300000000000001,
+  "family_tp": 0.182,
+  "nsga_min_cost": 97.34
+ }
+}

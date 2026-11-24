@@ -1,0 +1,117 @@
+{
+ "No action": {
+  "theta": [
+   0.0,
+   0.0,
+   99.0
+  ],
+  "optimisation_replicates": {
+   "cost_crore": 0.0,
+   "mean_tp": 0.934,
+   "reliability": 0.0,
+   "inertia": 1.0,
+   "tp_2050_median": 0.925,
+   "mean_load_t": 32.85
+  },
+  "fresh_replicates": {
+   "cost_crore": 0.0,
+   "mean_tp": 0.932,
+   "reliability": 0.0,
+   "inertia": 1.0,
+   "tp_2050_median": 0.93,
+   "mean_load_t": 32.85
+  }
+ },
+ "Planned 8 MLD STP": {
+  "theta": [
+   0.36,
+   0.36,
+   99.0
+  ],
+  "optimisation_replicates": {
+   "cost_crore": 32.1,
+   "mean_tp": 0.647,
+   "reliability": 0.0,
+   "inertia": 1.0,
+   "tp_2050_median": 0.641,
+   "mean_load_t": 21.02
+  },
+  "fresh_replicates": {
+   "cost_crore": 32.1,
+   "mean_tp": 0.645,
+   "reliability": 0.0,
+   "inertia": 1.0,
+   "tp_2050_median": 0.644,
+   "mean_load_t": 21.02
+  }
+ },
+ "Cheapest 100%-reliable": {
+  "theta": [
+   0.828,
+   0.958,
+   4.27
+  ],
+  "optimisation_replicates": {
+   "cost_crore": 86.4,
+   "mean_tp": 0.183,
+   "reliability": 1.0,
+   "inertia": 0.958,
+   "tp_2050_median": 0.183,
+   "mean_load_t": 5.48
+  },
+  "fresh_replicates": {
+   "cost_crore": 86.4,
+   "mean_tp": 0.183,
+   "reliability": 1.0,
+   "inertia": 0.958,
+   "tp_2050_median": 0.183,
+   "mean_load_t": 5.48
+  }
+ },
+ "Compromise": {
+  "theta": [
+   0.884,
+   0.985,
+   3.734
+  ],
+  "optimisation_replicates": {
+   "cost_crore": 93.4,
+   "mean_tp": 0.139,
+   "reliability": 1.0,
+   "inertia": 0.958,
+   "tp_2050_median": 0.139,
+   "mean_load_t": 3.68
+  },
+  "fresh_replicates": {
+   "cost_crore": 93.4,
+   "mean_tp": 0.139,
+   "reliability": 1.0,
+   "inertia": 0.958,
+   "tp_2050_median": 0.139,
+   "mean_load_t": 3.68
+  }
+ },
+ "Activist (max removal)": {
+  "theta": [
+   1.0,
+   1.0,
+   99.0
+  ],
+  "optimisation_replicates": {
+   "cost_crore": 108.0,
+   "mean_tp": 0.05,
+   "reliability": 1.0,
+   "inertia": 1.0,
+   "tp_2050_median": 0.048,
+   "mean_load_t": 0.0
+  },
+  "fresh_replicates": {
+   "cost_crore": 108.0,
+   "mean_tp": 0.051,
+   "reliability": 1.0,
+   "inertia": 1.0,
+   "tp_2050_median": 0.047,
+   "mean_load_t": 0.0
+  }
+ }
+}

@@ -1,0 +1,4 @@
+seed 1: gens=1000, nondominated=4901, max rel=1.000, min TP=0.050, HV last=0.4610, HV at 50%=0.4589, HV at 80%=0.4603
+seed 2: gens=1000, nondominated=4814, max rel=1.000, min TP=0.050, HV last=0.4598, HV at 50%=0.4575, HV at 80%=0.4584
+seed 3: gens=1000, nondominated=5223, max rel=1.000, min TP=0.050, HV last=0.4609, HV at 50%=0.4566, HV at 80%=0.4597
+merged nondominated: 7982
